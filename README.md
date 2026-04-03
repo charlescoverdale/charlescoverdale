@@ -8,9 +8,9 @@ See below for my projects and R packages for accessing economic data and applied
 
 #### AI Tools
 
-| Project | Description |
-|---|---|
-| [**econstack**](https://github.com/charlescoverdale/econstack) | Claude Code skills for economic analysis: impact assessments, local authority profiles, macro briefings |
+| Project | | Description | |
+|---|---|---|---|
+| [**econstack**](https://github.com/charlescoverdale/econstack) | | Claude Code skills for economic analysis: impact assessments, local authority profiles, macro briefings | |
 
 #### Data Access Packages
 
@@ -44,6 +44,6 @@ Tools for applied economics research. Pure computation, no API keys required.
 
 #### Textbooks
 
-| Project | Description |
-|---|---|
-| [**Macroeconomics with R**](https://macrowithr.com) | Applied macro textbook: 14 chapters covering UK, European, and international data |
+| Project | | Description | |
+|---|---|---|---|
+| [**Macroeconomics with R**](https://macrowithr.com) | | Applied macro textbook: 14 chapters covering UK, European, and international data | |
