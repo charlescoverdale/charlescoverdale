@@ -1,6 +1,8 @@
 ### G'day, I'm Charles
 
-I'm an economist based in London with interests in climate, macroeconomics, and public policy. See below for my projects and R packages for accessing economic data and applied research.
+I'm an economist based in London with interests in climate, macroeconomics, and public policy.
+
+See below for my projects and R packages for accessing economic data and applied research.
 
 ---
 
