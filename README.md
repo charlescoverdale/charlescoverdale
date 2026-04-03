@@ -41,3 +41,4 @@ Tools for applied economics research. Pure computation, no API keys required.
 | Project | Description |
 |---|---|
 | [**Macroeconomics with R**](https://macrowithr.com) | Applied macro textbook: 14 chapters covering UK, European, and international data |
+| [**econstack**](https://github.com/charlescoverdale/econstack) | Claude Code skills for economic analysis: impact assessments, local authority profiles, macro briefings |
