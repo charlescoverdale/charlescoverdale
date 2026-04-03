@@ -1,8 +1,6 @@
-### Hi, I'm Charles
+### G'day, I'm Charles
 
-I build R packages for economics and data science. 16 packages on CRAN, 6,000+ downloads.
-
-Based in London. Background in economics and climate science.
+I'm an economist based in London with interests in climate, macroeconomics, and public policy.
 
 ---
 
