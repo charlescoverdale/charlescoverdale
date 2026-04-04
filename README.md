@@ -1,18 +1,28 @@
 ### G'day, I'm Charles
 
-I'm an economist based in London with interests in climate, macroeconomics, and public policy.
-
-See below for my projects and R packages for accessing economic data and applied research.
+Economist in London. I build open-source tools that make economic analysis faster, cheaper, and more reproducible.
 
 ---
 
-#### AI Tools
+#### [econstack](https://github.com/charlescoverdale/econstack): AI-powered economic analysis
 
-[**econstack**](https://github.com/charlescoverdale/econstack) -- Claude Code skills for economic analysis: impact assessments, local authority profiles, macro briefings.
+The first structured CBA parameter database for AI. Six Claude Code skills that generate professional cost-benefit analyses, impact assessments, and economic briefings in seconds, not days.
 
-#### Data Access Packages
+**What makes it different:** econstack ships with 33 audited parameter files across 4 jurisdictions (UK, US, EU, Australia), covering discount rates, carbon values, VSL, QALYs, travel time savings, optimism bias, and more. Every value is sourced, cited, and version-tracked. No one else has built this.
 
-Pull macroeconomic and climate data directly into R, ready for analysis.
+```
+/cost-benefit --framework us            # Full CBA with OMB A-4 parameters
+/io-report £10m in Manufacturing in Manchester   # Regional IO impact in seconds
+/econ-audit my-report.md --strict       # 60+ methodology checks, auto-fix
+```
+
+6 skills: `/cost-benefit` (8 frameworks), `/io-report` (UK), `/econ-audit`, `/macro-briefing` (30 countries), `/la-profile` (391 UK areas), `/fiscal-briefing` (UK). Backed by 16 CRAN packages for data access and computation.
+
+---
+
+#### Data access packages
+
+Pull macroeconomic and climate data directly into R, ready for analysis. 9 packages covering 7 national statistical agencies.
 
 | Package | Source | CRAN | Downloads |
 |---|---|---|---|
@@ -26,9 +36,9 @@ Pull macroeconomic and climate data directly into R, ready for analysis.
 | [**readnoaa**](https://github.com/charlescoverdale/readnoaa) | NOAA Climate Data | [![CRAN](https://www.r-pkg.org/badges/version/readnoaa)](https://CRAN.R-project.org/package=readnoaa) | [![Downloads](https://cranlogs.r-pkg.org/badges/readnoaa)](https://CRAN.R-project.org/package=readnoaa) |
 | [**readaec**](https://github.com/charlescoverdale/readaec) | Australian Electoral Commission | [![CRAN](https://www.r-pkg.org/badges/version/readaec)](https://CRAN.R-project.org/package=readaec) | [![Downloads](https://cranlogs.r-pkg.org/badges/readaec)](https://CRAN.R-project.org/package=readaec) |
 
-#### Analytical Toolkits
+#### Analytical toolkits
 
-Tools for applied economics research. Pure computation, no API keys required.
+Applied economics computation. Pure R, no API keys, no external dependencies.
 
 | Package | Purpose | CRAN | Downloads |
 |---|---|---|---|
@@ -40,6 +50,8 @@ Tools for applied economics research. Pure computation, no API keys required.
 | [**climatekit**](https://github.com/charlescoverdale/climatekit) | Climate indices (35 temperature, precipitation, drought metrics) | [![CRAN](https://www.r-pkg.org/badges/version/climatekit)](https://CRAN.R-project.org/package=climatekit) | [![Downloads](https://cranlogs.r-pkg.org/badges/climatekit)](https://CRAN.R-project.org/package=climatekit) |
 | [**inflateR**](https://github.com/charlescoverdale/inflateR) | Inflation adjustment for price series | [![CRAN](https://www.r-pkg.org/badges/version/inflateR)](https://CRAN.R-project.org/package=inflateR) | [![Downloads](https://cranlogs.r-pkg.org/badges/inflateR)](https://CRAN.R-project.org/package=inflateR) |
 
-#### Textbooks
+#### Textbooks and web
 
-[**Macroeconomics with R**](https://macrowithr.com) -- Applied macro textbook: 14 chapters covering UK, European, and international data.
+[**Macroeconomics with R**](https://macrowithr.com) : 14-chapter applied macro textbook. UK, European, and international data. Uses the packages above.
+
+[**econprofile.com**](https://econprofile.com) : Economic profiles for 391 UK local authorities. Interactive maps, IO impact calculator, compare tool.
