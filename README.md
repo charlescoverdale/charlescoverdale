@@ -10,14 +10,14 @@ See below for my projects for accessing economic data and applied research.
 
 The first structured CBA parameter database for AI. Six Claude Code skills that generate professional cost-benefit analyses, impact assessments, and economic briefings in seconds, not days.
 
-**What makes it different:** econstack ships with 33 audited parameter files across 4 jurisdictions (UK, US, EU, Australia), covering discount rates, carbon values, VSL, QALYs, travel time savings, optimism bias, and more. Every value is sourced, cited, and version-tracked.
+**What makes it different:** econstack ships with 34 audited parameter files across 4 jurisdictions (UK, US, EU, Australia), covering discount rates, carbon values, VSL, QALYs, travel time savings, optimism bias, and more. Every value is sourced, cited, and version-tracked.
 
 - **`/cost-benefit`** : Full CBA with 8 international frameworks (UK Green Book, US OMB A-4, EU Cohesion, Australia, and more)
 - **`/io-report`** : Regional input-output impact assessment for 391 UK local authorities
 - **`/econ-audit`** : 60+ methodology checks against academic literature, with auto-fix
-- **`/macro-briefing`** : UK macro monitor with international comparison across 30 economies
-- **`/la-profile`** : Local authority economic profiles (demographics, labour, housing, deprivation)
-- **`/fiscal-briefing`** : UK public finances (borrowing, debt, receipts, fiscal rules)
+- **`/macro-briefing`** : Macroeconomic monitor (UK, US, Euro area, Australia) following each central bank's reporting structure
+- **`/la-profile`** : Local authority economic profiles for 391 UK areas
+- **`/fiscal-briefing`** : Public finances briefing (UK, US, Australia) with optional debt sustainability analysis
 
 Backed by 16 CRAN packages for data access and computation.
 
