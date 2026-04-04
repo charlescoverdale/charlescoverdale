@@ -8,9 +8,10 @@ See below for my projects for accessing economic data and applied research.
 
 #### [econstack](https://github.com/charlescoverdale/econstack): AI-powered economic analysis
 
-Six Claude Code skills that generate professional cost-benefit analyses, impact assessments, and economic briefings in seconds, not days. Backed by 34 audited parameter files across 4 jurisdictions (UK, US, EU, Australia), covering discount rates, carbon values, VSL, QALYs, travel time savings, and optimism bias. Every value is sourced, cited, and version-tracked.
+Seven Claude Code skills that generate professional cost-benefit analyses, VfM evaluations, impact assessments, and economic briefings in seconds, not days. Backed by 42 audited parameter files across 8 jurisdictions (UK, US, EU, Australia, World Bank, ADB, OECD, NZ), covering discount rates, carbon values, VSL, QALYs, unit costs, and optimism bias. Every value is sourced, cited, and version-tracked.
 
 - **`/cost-benefit`** : Full CBA with 8 international frameworks (UK Green Book, US OMB A-4, EU Cohesion, Australia, and more)
+- **`/vfm-eval`** : Ex-post Value for Money evaluation (Magenta Book 3Es, FCDO 4Es, OECD DAC, and 5 more frameworks)
 - **`/macro-briefing`** : Macroeconomic monitor (UK, US, Euro area, Australia) following each central bank's reporting structure
 - **`/fiscal-briefing`** : Public finances briefing (UK, US, Australia) with optional debt sustainability analysis
 - **`/io-report`** : Regional input-output impact assessment for 391 UK local authorities
