@@ -12,10 +12,10 @@ Six Claude Code skills that generate professional cost-benefit analyses, impact 
 
 - **`/cost-benefit`** : Full CBA with 8 international frameworks (UK Green Book, US OMB A-4, EU Cohesion, Australia, and more)
 - **`/io-report`** : Regional input-output impact assessment for 391 UK local authorities
-- **`/econ-audit`** : 60+ methodology checks against academic literature, with auto-fix
 - **`/macro-briefing`** : Macroeconomic monitor (UK, US, Euro area, Australia) following each central bank's reporting structure
-- **`/la-profile`** : Local authority economic profiles for 391 UK areas
 - **`/fiscal-briefing`** : Public finances briefing (UK, US, Australia) with optional debt sustainability analysis
+- **`/la-profile`** : Local authority economic profiles for 391 UK areas
+- **`/econ-audit`** : 60+ methodology checks against academic literature, with auto-fix
 
 Backed by 16 CRAN packages for data access and computation.
 
