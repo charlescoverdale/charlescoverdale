@@ -14,9 +14,10 @@ An applied economics toolkit for AI: computation, structuring, and quality assur
 - **`/vfm-eval`** : Ex-post Value for Money evaluation (Magenta Book 3Es, FCDO 4Es, OECD DAC, and 5 more frameworks)
 - **`/macro-briefing`** : Macroeconomic monitor (UK, US, Euro area, Australia) following each central bank's reporting structure
 - **`/fiscal-briefing`** : Public finances briefing (UK, US, Australia) with optional debt sustainability analysis
+- **`/market-research`** : Industry and market analysis (sizing, structure, Porter's Five Forces, HHI/CR4, M&A, regulation, supply chains). Multi-country.
 - **`/io-report`** : Regional input-output impact assessment for 391 UK local authorities
 - **`/la-profile`** : Local authority economic profiles for 391 UK areas
-- **`/econ-audit`** : 60+ methodology checks against academic literature, with auto-fix
+- **`/econ-audit`** : 120+ methodology checks against academic literature, with auto-fix
 
 Backed by 16 CRAN packages for data access and computation.
 
