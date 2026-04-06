@@ -11,6 +11,7 @@ See below for my projects for accessing economic data and applied research.
 An applied economics toolkit for AI: computation, structuring, and quality assurance of economic analysis, backed by a versioned parameter database. The skills generate professional cost-benefit analyses, VfM evaluations, impact assessments, and economic briefings in seconds, not days. 42 audited parameter files across 8 jurisdictions (UK, US, EU, Australia, World Bank, ADB, OECD, NZ), covering discount rates, carbon values, VSL, QALYs, unit costs, and optimism bias. Every value is sourced, cited, and version-tracked.
 
 - **`/cost-benefit`** : Full CBA with 8 international frameworks (UK Green Book, US OMB A-4, EU Cohesion, Australia, and more)
+- **`/mca`** : Multi-criteria analysis and MCDA (tailored criteria, scoring descriptors, swing/AHP weighting, sensitivity)
 - **`/vfm-eval`** : Ex-post Value for Money evaluation (Magenta Book 3Es, FCDO 4Es, OECD DAC, and 5 more frameworks)
 - **`/macro-briefing`** : Macroeconomic monitor (UK, US, Euro area, Australia) following each central bank's reporting structure
 - **`/fiscal-briefing`** : Public finances briefing (UK, US, Australia) with optional debt sustainability analysis
