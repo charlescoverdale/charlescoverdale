@@ -18,7 +18,7 @@ An applied economics toolkit for AI: computation, structuring, and quality assur
 - **`/market-research`** : Industry and market analysis (sizing, structure, competition, M&A, regulation, supply chains, pricing)
 - **`/io-report`** : Regional input-output impact assessment for 391 UK local authorities
 - **`/la-profile`** : Local authority economic profiles for 391 UK areas
-- **`/business-case`** : Five Case Model business case (UK Green Book, Australian HVHR/NSW/QLD, NZ, EU, World Bank). Framework-native headings, interactive section picker, stage-aware depth (SOC/OBC/FBC)
+- **`/business-case`** : Comprehensive business case drafting in 9 national frameworks (UK, AU, NZ, EU, US, World Bank)
 - **`/econ-audit`** : 120+ methodology checks against academic literature, with auto-fix
 
 Backed by 16 CRAN packages for data access and computation.
