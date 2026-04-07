@@ -8,7 +8,7 @@ See below for my projects for accessing economic data and applied research.
 
 #### [econstack](https://github.com/charlescoverdale/econstack): AI-powered economic analysis
 
-An applied economics toolkit for AI: computation, structuring, and quality assurance of economic analysis, backed by a versioned parameter database. The skills generate professional cost-benefit analyses, VfM evaluations, impact assessments, and economic briefings in seconds, not days. 42 audited parameter files across 8 jurisdictions (UK, US, EU, Australia, World Bank, ADB, OECD, NZ), covering discount rates, carbon values, VSL, QALYs, unit costs, and optimism bias. Every value is sourced, cited, and version-tracked.
+Professional economic analysis, powered by AI. econstack is a set of [Claude Code](https://claude.ai/code) skills that handle the first 80% of economic analysis: cost-benefit appraisals, business cases, regulatory impact assessments, policy briefings, IO impact models, and market research. 12 skills across the full policy analysis lifecycle, from data acquisition to methodology audit. Supports UK, Australian (Commonwealth + 5 states), EU, US, NZ, and World Bank frameworks with framework-native output. Backed by 45 audited parameter files and 17 R packages on CRAN.
 
 - **`/cost-benefit`** : Full CBA with 8 international frameworks (UK Green Book, US OMB A-4, EU Cohesion, Australia, and more)
 - **`/mca`** : Multi-criteria analysis and MCDA (tailored criteria, scoring descriptors, swing/AHP weighting, sensitivity)
