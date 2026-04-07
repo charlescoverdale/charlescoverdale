@@ -16,7 +16,7 @@ An applied economics toolkit for AI: computation, structuring, and quality assur
 - **`/macro-briefing`** : Macroeconomic monitor (UK, US, Euro area, Australia) following each central bank's reporting structure
 - **`/fiscal-briefing`** : Public finances briefing (UK, US, Australia) with optional debt sustainability analysis
 - **`/market-research`** : Industry and market analysis (sizing, structure, competition, M&A, regulation, supply chains, pricing)
-- **`/io-report`** : Regional input-output impact assessment for 391 UK local authorities
+- **`/io-report`** : Regional input-output impact assessment for 391 UK local authorities and 88 Australian SA4 regions
 - **`/la-profile`** : Local authority economic profiles for 391 UK areas
 - **`/business-case`** : Comprehensive business case drafting in 9 national frameworks (UK, AU, NZ, EU, US, World Bank)
 - **`/econ-audit`** : 120+ methodology checks against academic literature, with auto-fix
