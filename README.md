@@ -19,7 +19,9 @@ An applied economics toolkit for AI: computation, structuring, and quality assur
 - **`/io-report`** : Regional input-output impact assessment for 391 UK local authorities and 88 Australian SA4 regions
 - **`/la-profile`** : Local authority economic profiles for 391 UK areas
 - **`/business-case`** : Comprehensive business case drafting in 9 national frameworks (UK, AU, NZ, EU, US, World Bank)
-- **`/econ-audit`** : 120+ methodology checks against academic literature, with auto-fix
+- **`/briefing-note`** : Structured policy briefing note (1-2 pages, UK GES / AU Treasury / consulting formats)
+- **`/reg-impact`** : Regulatory Impact Assessment (UK Better Regulation, AU OIA, EU, US OMB)
+- **`/econ-audit`** : 124 methodology checks against academic literature, with auto-fix
 
 Backed by 16 CRAN packages for data access and computation.
 
