@@ -20,7 +20,8 @@ Professional economic analysis, powered by AI. econstack is a set of [Claude Cod
 - **`/la-profile`** : Local authority economic profiles for 391 UK areas
 - **`/business-case`** : Comprehensive business case drafting in 9 national frameworks (UK, AU, NZ, EU, US, World Bank)
 - **`/briefing-note`** : Structured policy briefing note (1-2 pages, UK GES / AU Treasury / consulting formats)
-- **`/reg-impact`** : Regulatory Impact Assessment (UK Better Regulation, AU OIA, EU, US OMB)
+- **`/reg-impact`** : Regulatory Impact Assessment (UK, AU Commonwealth + 5 states, EU, US)
+- **`/evaluate`** : Full programme evaluation (Magenta Book, AU, OECD DAC). Plans, mid-term, final, PIR
 - **`/econ-audit`** : 124 methodology checks against academic literature, with auto-fix
 
 Backed by 16 CRAN packages for data access and computation.
