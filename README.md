@@ -8,7 +8,7 @@ See below for my projects for accessing economic data and applied research.
 
 #### [econstack](https://github.com/charlescoverdale/econstack): AI-powered economic analysis
 
-Professional economic analysis, powered by AI. econstack is a set of [Claude Code](https://claude.ai/code) skills that handle the first 80% of economic analysis: cost-benefit appraisals, business cases, regulatory impact assessments, policy briefings, IO impact models, and market research. 12 skills across the full policy analysis lifecycle, from data acquisition to methodology audit. Supports UK, Australian (Commonwealth + 5 states), EU, US, NZ, and World Bank frameworks with framework-native output. Backed by 45 audited parameter files and 17 R packages on CRAN.
+Professional economic analysis, powered by AI. econstack is a set of [Claude Code](https://claude.ai/code) skills that handle the first 80% of economic analysis: cost-benefit appraisals, business cases, regulatory impact assessments, programme evaluations, policy briefings, IO impact models, and market research. 13 skills across the full policy analysis lifecycle, from data acquisition to methodology audit. Supports UK, Australian (Commonwealth + 5 states), EU, US, NZ, and World Bank frameworks with framework-native output. Backed by 57 audited parameter files and 16 R packages on CRAN.
 
 - **`/cost-benefit`** : Full CBA with 8 international frameworks (UK Green Book, US OMB A-4, EU Cohesion, Australia, and more)
 - **`/mca`** : Multi-criteria analysis and MCDA (tailored criteria, scoring descriptors, swing/AHP weighting, sensitivity)
@@ -24,7 +24,7 @@ Professional economic analysis, powered by AI. econstack is a set of [Claude Cod
 - **`/evaluate`** : Full programme evaluation (Magenta Book, AU, OECD DAC). Plans, mid-term, final, PIR
 - **`/econ-audit`** : 124 methodology checks against academic literature, with auto-fix
 
-Backed by 16 CRAN packages for data access and computation.
+Backed by 16 R packages on CRAN for data access and computation.
 
 ---
 
