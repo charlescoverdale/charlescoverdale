@@ -8,7 +8,7 @@ See below for my projects for accessing economic data and applied research.
 
 #### [econstack](https://github.com/charlescoverdale/econstack): AI-powered economic analysis
 
-Professional economic analysis, powered by AI. econstack is a set of [Claude Code](https://claude.ai/code) skills that handle the first 80% of economic analysis: cost-benefit appraisals, business cases, regulatory impact assessments, programme evaluations, policy briefings, IO impact models, and market research. 13 skills across the full policy analysis lifecycle, from data acquisition to methodology audit. Supports UK, Australian (Commonwealth + 5 states), EU, US, NZ, and World Bank frameworks with framework-native output. Backed by 57 audited parameter files and 16 R packages on CRAN.
+Professional economic analysis, powered by AI. econstack is a set of [Claude Code](https://claude.ai/code) skills that handle the first 80% of economic analysis: cost-benefit appraisals, business cases, regulatory impact assessments, programme evaluations, policy briefings, IO impact models, and market research. 14 skills across the full policy analysis lifecycle, from benefits brainstorming to methodology audit. Supports UK, Australian (Commonwealth + 5 states), EU, US, NZ, and World Bank frameworks with framework-native output. Backed by 57 audited parameter files and 16 R packages on CRAN.
 
 - **`/cost-benefit`** : Full CBA with 8 international frameworks (UK Green Book, US OMB A-4, EU Cohesion, Australia, and more)
 - **`/mca`** : Multi-criteria analysis and MCDA (tailored criteria, scoring descriptors, swing/AHP weighting, sensitivity)
@@ -22,6 +22,7 @@ Professional economic analysis, powered by AI. econstack is a set of [Claude Cod
 - **`/briefing-note`** : Structured policy briefing note (1-2 pages, UK GES / AU Treasury / consulting formats)
 - **`/reg-impact`** : Regulatory Impact Assessment (UK, AU Commonwealth + 5 states, EU, US)
 - **`/evaluate`** : Full programme evaluation (Magenta Book, AU, OECD DAC). Plans, mid-term, final, PIR
+- **`/longlist`** : Brainstorm a longlist of benefits and costs for a project, with a suggested quantification method for each item. Feeds into `/cost-benefit` and `/business-case`
 - **`/econ-audit`** : 124 methodology checks against academic literature, with auto-fix
 
 Backed by 16 R packages on CRAN for data access and computation.
