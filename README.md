@@ -22,7 +22,7 @@ Professional economic analysis, powered by AI. econstack is a set of [Claude Cod
 - **`/briefing-note`** : Structured policy briefing note (1-2 pages, UK GES / AU Treasury / consulting formats)
 - **`/reg-impact`** : Regulatory Impact Assessment (UK, AU Commonwealth + 5 states, EU, US)
 - **`/evaluate`** : Full programme evaluation (Magenta Book, AU, OECD DAC). Plans, mid-term, final, PIR
-- **`/longlist`** : Brainstorm a longlist of benefits and costs for a project, with a suggested quantification method for each item. Feeds into `/cost-benefit` and `/business-case`
+- **`/longlist`** : Brainstorm a longlist of benefits and costs for a project, with a suggested quantification method for each item
 - **`/econ-audit`** : 124 methodology checks against academic literature, with auto-fix
 
 Backed by 16 R packages on CRAN for data access and computation.
