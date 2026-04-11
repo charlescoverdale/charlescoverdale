@@ -12,7 +12,7 @@ Professional economic analysis, powered by AI. econstack is a set of [Claude Cod
 
 - **`/longlist`** : Brainstorm all the benefits and costs for a project before you start modelling anything
 - **`/cost-benefit`** : Build a full cost-benefit analysis with economic NPV and financial NPV side by side
-- **`/mca`** : Rank options against multiple criteria when you cannot or should not monetise everything
+- **`/mca`** : Develop criteria and rank options against them, with tailored scoring and sensitivity analysis
 - **`/business-case`** : Draft a complete Five Case Model business case, scaled by stage and project size
 - **`/reg-impact`** : Produce a Regulatory Impact Assessment for a proposed regulation, policy, or legislative change
 - **`/macro-briefing`** : Pull live macro data for the UK, US, Euro area, or Australia into one briefing
