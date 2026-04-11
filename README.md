@@ -8,17 +8,17 @@ See below for my projects for accessing economic data and applied research.
 
 #### [econstack](https://github.com/charlescoverdale/econstack): AI-powered economic analysis
 
-Professional economic analysis, powered by AI. econstack is a set of [Claude Code](https://claude.ai/code) skills that handle the first 80% of economic analysis: cost-benefit appraisals, business cases, regulatory impact assessments, policy briefings, IO impact models, and market research. 11 skills across the full policy analysis lifecycle, from benefits brainstorming to methodology audit. Supports UK HM Treasury Green Book, EU Better Regulation, World Bank, Asian Development Bank, and Victorian Treasury HVHR frameworks with framework-native output. Backed by 57 audited parameter files and 16 R packages on CRAN.
+Professional economic analysis, powered by AI. econstack is a set of [Claude Code](https://claude.ai/code) skills that handle the first 80% of economic analysis: cost-benefit appraisals, business cases, regulatory impact assessments, policy briefings, IO impact models, and market research. 11 skills across the full policy analysis lifecycle, from benefits brainstorming to methodology audit. Supports HM Treasury Green Book, EU Better Regulation, World Bank, Asian Development Bank, and Australian Treasury (Victoria) frameworks with framework-native output. Backed by 57 audited parameter files and 16 R packages on CRAN.
 
-- **`/longlist`** : Brainstorm all the benefits and costs for a project before you start modelling anything
 - **`/cost-benefit`** : Build a full cost-benefit analysis with economic NPV and financial NPV side by side
+- **`/longlist`** : Brainstorm all the benefits and costs for a project before you start modelling anything
 - **`/business-case`** : Draft a complete Five Case Model business case, scaled by stage and project size
-- **`/reg-impact`** : Produce a Regulatory Impact Assessment for a proposed regulation, policy, or legislative change
 - **`/macro-briefing`** : Pull live macro data for the UK, US, Euro area, or Australia into one briefing
 - **`/fiscal-briefing`** : Pull live public finances data and produce a deficit, debt, and fiscal rules briefing
 - **`/market-research`** : Produce a source-cited industry report with sizing, competition, Porter's Five Forces, and outlook
 - **`/io-report`** : Estimate regional jobs, GVA, and output impact of an investment using input-output multipliers
 - **`/la-profile`** : Economic snapshot of any UK local authority, benchmarked against its country average
+- **`/reg-impact`** : Produce a Regulatory Impact Assessment for a proposed regulation, policy, or legislative change
 - **`/briefing-note`** : Draft a one or two-page policy briefing note for a minister, board, or committee
 - **`/econ-audit`** : Review any economic analysis for methodology errors and return a RAG scorecard with fixes
 
