@@ -22,8 +22,6 @@ Professional economic analysis, powered by AI. econstack is a set of [Claude Cod
 - **`/briefing-note`** : Draft a one or two-page policy briefing note for a minister, board, or committee
 - **`/econ-audit`** : Review any economic analysis for methodology errors and return a RAG scorecard with fixes
 
-Backed by 16 R packages on CRAN for data access and computation.
-
 ---
 
 #### Data access packages
