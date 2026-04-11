@@ -8,11 +8,10 @@ See below for my projects for accessing economic data and applied research.
 
 #### [econstack](https://github.com/charlescoverdale/econstack): AI-powered economic analysis
 
-Professional economic analysis, powered by AI. econstack is a set of [Claude Code](https://claude.ai/code) skills that handle the first 80% of economic analysis: cost-benefit appraisals, business cases, regulatory impact assessments, policy briefings, IO impact models, and market research. 12 skills across the full policy analysis lifecycle, from benefits brainstorming to methodology audit. Supports UK HM Treasury Green Book, EU Better Regulation, World Bank, Asian Development Bank, and Victorian Treasury HVHR frameworks with framework-native output. Backed by 57 audited parameter files and 16 R packages on CRAN.
+Professional economic analysis, powered by AI. econstack is a set of [Claude Code](https://claude.ai/code) skills that handle the first 80% of economic analysis: cost-benefit appraisals, business cases, regulatory impact assessments, policy briefings, IO impact models, and market research. 11 skills across the full policy analysis lifecycle, from benefits brainstorming to methodology audit. Supports UK HM Treasury Green Book, EU Better Regulation, World Bank, Asian Development Bank, and Victorian Treasury HVHR frameworks with framework-native output. Backed by 57 audited parameter files and 16 R packages on CRAN.
 
 - **`/longlist`** : Brainstorm all the benefits and costs for a project before you start modelling anything
 - **`/cost-benefit`** : Build a full cost-benefit analysis with economic NPV and financial NPV side by side
-- **`/mca`** : Develop criteria and rank options against them, with tailored scoring and sensitivity analysis
 - **`/business-case`** : Draft a complete Five Case Model business case, scaled by stage and project size
 - **`/reg-impact`** : Produce a Regulatory Impact Assessment for a proposed regulation, policy, or legislative change
 - **`/macro-briefing`** : Pull live macro data for the UK, US, Euro area, or Australia into one briefing
