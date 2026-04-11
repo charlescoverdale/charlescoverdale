@@ -8,22 +8,20 @@ See below for my projects for accessing economic data and applied research.
 
 #### [econstack](https://github.com/charlescoverdale/econstack): AI-powered economic analysis
 
-Professional economic analysis, powered by AI. econstack is a set of [Claude Code](https://claude.ai/code) skills that handle the first 80% of economic analysis: cost-benefit appraisals, business cases, regulatory impact assessments, programme evaluations, policy briefings, IO impact models, and market research. 14 skills across the full policy analysis lifecycle, from benefits brainstorming to methodology audit. Supports UK, Australian (Commonwealth + 5 states), EU, US, NZ, and World Bank frameworks with framework-native output. Backed by 57 audited parameter files and 16 R packages on CRAN.
+Professional economic analysis, powered by AI. econstack is a set of [Claude Code](https://claude.ai/code) skills that handle the first 80% of economic analysis: cost-benefit appraisals, business cases, regulatory impact assessments, policy briefings, IO impact models, and market research. 12 skills across the full policy analysis lifecycle, from benefits brainstorming to methodology audit. Supports UK HM Treasury Green Book, EU Better Regulation, World Bank, Asian Development Bank, and Victorian Treasury HVHR frameworks with framework-native output. Backed by 57 audited parameter files and 16 R packages on CRAN.
 
-- **`/cost-benefit`** : Full CBA with 8 international frameworks (UK Green Book, US OMB A-4, EU Cohesion, Australia, and more)
-- **`/mca`** : Multi-criteria analysis and MCDA (tailored criteria, scoring descriptors, swing/AHP weighting, sensitivity)
-- **`/vfm-eval`** : Ex-post Value for Money evaluation (Magenta Book 3Es, FCDO 4Es, OECD DAC, and 5 more frameworks)
-- **`/macro-briefing`** : Macroeconomic monitor (UK, US, Euro area, Australia) following each central bank's reporting structure
-- **`/fiscal-briefing`** : Public finances briefing (UK, US, Australia) with optional debt sustainability analysis
-- **`/market-research`** : Industry and market analysis (sizing, structure, competition, M&A, regulation, supply chains, pricing)
-- **`/io-report`** : Regional input-output impact assessment for 391 UK local authorities and 88 Australian SA4 regions
-- **`/la-profile`** : Local authority economic profiles for 391 UK areas
-- **`/business-case`** : Comprehensive business case drafting in 9 national frameworks (UK, AU, NZ, EU, US, World Bank)
-- **`/briefing-note`** : Structured policy briefing note (1-2 pages, UK GES / AU Treasury / consulting formats)
-- **`/reg-impact`** : Regulatory Impact Assessment (UK, AU Commonwealth + 5 states, EU, US)
-- **`/evaluate`** : Full programme evaluation (Magenta Book, AU, OECD DAC). Plans, mid-term, final, PIR
-- **`/longlist`** : Brainstorm a longlist of benefits and costs for a project, with a suggested quantification method for each item
-- **`/econ-audit`** : 124 methodology checks against academic literature, with auto-fix
+- **`/longlist`** : Brainstorm all the benefits and costs for a project before you start modelling anything
+- **`/cost-benefit`** : Build a full cost-benefit analysis with economic NPV and financial NPV side by side
+- **`/mca`** : Rank options against multiple criteria when you cannot or should not monetise everything
+- **`/business-case`** : Draft a complete Five Case Model business case, scaled by stage and project size
+- **`/reg-impact`** : Produce a Regulatory Impact Assessment for a proposed regulation, policy, or legislative change
+- **`/macro-briefing`** : Pull live macro data for the UK, US, Euro area, or Australia into one briefing
+- **`/fiscal-briefing`** : Pull live public finances data and produce a deficit, debt, and fiscal rules briefing
+- **`/market-research`** : Produce a source-cited industry report with sizing, competition, Porter's Five Forces, and outlook
+- **`/io-report`** : Estimate regional jobs, GVA, and output impact of an investment using input-output multipliers
+- **`/la-profile`** : Economic snapshot of any UK local authority, benchmarked against its country average
+- **`/briefing-note`** : Draft a one or two-page policy briefing note for a minister, board, or committee
+- **`/econ-audit`** : Review any economic analysis for methodology errors and return a RAG scorecard with fixes
 
 Backed by 16 R packages on CRAN for data access and computation.
 
