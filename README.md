@@ -47,7 +47,7 @@ Applied economics computation. Pure R, no API keys, no external dependencies.
 
 | Package | Purpose | CRAN | Downloads |
 |---|---|---|---|
-| [**inequality**](https://github.com/charlescoverdale/inequality) | Inequality measurement (Gini, Theil, Atkinson, poverty, decomposition) | | |
+| [**inequality**](https://github.com/charlescoverdale/inequality) | Inequality and poverty measurement (Gini, Theil, Lorenz, FGT) | | |
 | [**predictset**](https://github.com/charlescoverdale/predictset) | Conformal prediction (regression, classification, Mondrian) | [![CRAN](https://www.r-pkg.org/badges/version/predictset)](https://CRAN.R-project.org/package=predictset) | [![Downloads](https://cranlogs.r-pkg.org/badges/predictset)](https://CRAN.R-project.org/package=predictset) |
 | [**nowcast**](https://github.com/charlescoverdale/nowcast) | Economic nowcasting (bridge equations, mixed-frequency) | [![CRAN](https://www.r-pkg.org/badges/version/nowcast)](https://CRAN.R-project.org/package=nowcast) | [![Downloads](https://cranlogs.r-pkg.org/badges/nowcast)](https://CRAN.R-project.org/package=nowcast) |
 | [**inflationkit**](https://github.com/charlescoverdale/inflationkit) | Inflation analysis (decomposition, persistence, Phillips curve) | [![CRAN](https://www.r-pkg.org/badges/version/inflationkit)](https://CRAN.R-project.org/package=inflationkit) | [![Downloads](https://cranlogs.r-pkg.org/badges/inflationkit)](https://CRAN.R-project.org/package=inflationkit) |
