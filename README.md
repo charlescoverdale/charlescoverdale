@@ -26,8 +26,6 @@ Professional economic analysis, powered by AI. econstack is a set of [Claude Cod
 
 #### Data access packages
 
-Pull macroeconomic, trade, and climate data directly into R, ready for analysis. 10 packages covering 8 data sources.
-
 | Package | Source | CRAN | Downloads |
 |---|---|---|---|
 | [**ons**](https://github.com/charlescoverdale/ons) | UK Office for National Statistics | [![CRAN](https://www.r-pkg.org/badges/version/ons)](https://CRAN.R-project.org/package=ons) | [![Downloads](https://cranlogs.r-pkg.org/badges/ons)](https://CRAN.R-project.org/package=ons) |
@@ -42,8 +40,6 @@ Pull macroeconomic, trade, and climate data directly into R, ready for analysis.
 | [**comtrade**](https://github.com/charlescoverdale/comtrade) | UN Comtrade | [![CRAN](https://www.r-pkg.org/badges/version/comtrade)](https://CRAN.R-project.org/package=comtrade) | [![Downloads](https://cranlogs.r-pkg.org/badges/comtrade)](https://CRAN.R-project.org/package=comtrade) |
 
 #### Analytical toolkits
-
-Applied economics computation. Pure R, no API keys, no external dependencies.
 
 | Package | Purpose | CRAN | Downloads |
 |---|---|---|---|
