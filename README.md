@@ -38,6 +38,7 @@ Professional economic analysis, powered by AI. econstack is a set of [Claude Cod
 | [**readnoaa**](https://github.com/charlescoverdale/readnoaa) | NOAA Climate Data | [![CRAN](https://www.r-pkg.org/badges/version/readnoaa)](https://CRAN.R-project.org/package=readnoaa) | [![Downloads](https://cranlogs.r-pkg.org/badges/readnoaa)](https://CRAN.R-project.org/package=readnoaa) |
 | [**readaec**](https://github.com/charlescoverdale/readaec) | Australian Electoral Commission | [![CRAN](https://www.r-pkg.org/badges/version/readaec)](https://CRAN.R-project.org/package=readaec) | [![Downloads](https://cranlogs.r-pkg.org/badges/readaec)](https://CRAN.R-project.org/package=readaec) |
 | [**comtrade**](https://github.com/charlescoverdale/comtrade) | UN Comtrade | [![CRAN](https://www.r-pkg.org/badges/version/comtrade)](https://CRAN.R-project.org/package=comtrade) | [![Downloads](https://cranlogs.r-pkg.org/badges/comtrade)](https://CRAN.R-project.org/package=comtrade) |
+| [**ukhousing**](https://github.com/charlescoverdale/ukhousing) | UK Land Registry, EPC, Planning | | |
 
 #### Analytical toolkits
 
