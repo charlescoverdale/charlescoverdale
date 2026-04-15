@@ -24,6 +24,12 @@ Professional economic analysis, powered by AI. econstack is a set of [Claude Cod
 
 ---
 
+#### [buildRpackage](https://github.com/charlescoverdale/buildRpackage): ship R packages to CRAN
+
+A [Claude Code](https://claude.ai/code) skill for the full CRAN submission workflow: ideate, name, plan, build, check, audit, submit, resubmit. Captures CRAN policies and the fix pattern for common rejections (Ripley cache rule, globalenv manipulation, URL 404s, version discipline). Two audit modes: academic (literature, formulas, test adequacy) and code (edge cases, numerical stability, cross-platform). Built from shipping 16 R packages to CRAN.
+
+---
+
 #### Data access packages
 
 | Package | Source | CRAN | Downloads |
