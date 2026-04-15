@@ -45,6 +45,7 @@ A [Claude Code](https://claude.ai/code) skill for the full CRAN submission workf
 | [**readaec**](https://github.com/charlescoverdale/readaec) | Australian Electoral Commission | [![CRAN](https://www.r-pkg.org/badges/version/readaec)](https://CRAN.R-project.org/package=readaec) | [![Downloads](https://cranlogs.r-pkg.org/badges/readaec)](https://CRAN.R-project.org/package=readaec) |
 | [**comtrade**](https://github.com/charlescoverdale/comtrade) | UN Comtrade | [![CRAN](https://www.r-pkg.org/badges/version/comtrade)](https://CRAN.R-project.org/package=comtrade) | [![Downloads](https://cranlogs.r-pkg.org/badges/comtrade)](https://CRAN.R-project.org/package=comtrade) |
 | [**ukhousing**](https://github.com/charlescoverdale/ukhousing) | UK Land Registry, EPC, Planning | | |
+| [**carbondata**](https://github.com/charlescoverdale/carbondata) | Carbon markets: EU ETS, UK ETS, RGGI, California, ICAP, VROD | | |
 
 #### Analytical toolkits
 
