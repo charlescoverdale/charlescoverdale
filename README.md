@@ -8,18 +8,13 @@ See below for my projects for accessing economic data and applied research.
 
 #### [econstack](https://github.com/charlescoverdale/econstack): AI-powered economic analysis
 
-Professional economic analysis, powered by AI. econstack is a set of [Claude Code](https://claude.ai/code) skills that handle the first 80% of economic analysis: cost-benefit appraisals, business cases, regulatory impact assessments, policy briefings, IO impact models, and market research. 11 skills across the full policy analysis lifecycle, from benefits brainstorming to methodology audit. Supports HM Treasury Green Book, EU Better Regulation, World Bank, Asian Development Bank, and Australian Treasury (Victoria) frameworks with framework-native output. Backed by 57 audited parameter files and 20+ R packages on CRAN.
+Professional economic analysis, powered by AI. econstack is a set of [Claude Code](https://claude.ai/code) skills that handle the mechanical parts of economic analysis: live macro and fiscal briefings, market research, policy briefing notes, pre-appraisal longlisting, and methodology audit. 6 skills designed to work on the inputs and checks around a policy decision, so you can focus on the judgement calls. Supports HM Treasury Green Book, EU Better Regulation, World Bank, Asian Development Bank, and Australian Treasury (Victoria) frameworks with framework-native output. Backed by 57 audited parameter files and 20+ R packages on CRAN.
 
-- **`/cost-benefit`** : Build a full cost-benefit analysis with economic NPV and financial NPV side by side
-- **`/longlist`** : Brainstorm all the benefits and costs for a project before you start modelling anything
-- **`/business-case`** : Draft a complete Five Case Model business case, scaled by stage and project size
 - **`/macro-briefing`** : Pull live macro data for the UK, US, Euro area, or Australia into one briefing
 - **`/fiscal-briefing`** : Pull live public finances data and produce a deficit, debt, and fiscal rules briefing
 - **`/market-research`** : Produce a source-cited industry report with sizing, competition, Porter's Five Forces, and outlook
-- **`/io-report`** : Estimate regional jobs, GVA, and output impact of an investment using input-output multipliers
-- **`/la-profile`** : Economic snapshot of any UK local authority, benchmarked against its country average
-- **`/reg-impact`** : Produce a Regulatory Impact Assessment for a proposed regulation, policy, or legislative change
 - **`/briefing-note`** : Draft a one or two-page policy briefing note for a minister, board, or committee
+- **`/longlist`** : Brainstorm all the benefits and costs for a project before you start modelling anything
 - **`/econ-audit`** : Review any economic analysis for methodology errors and return a RAG scorecard with fixes
 
 ---
@@ -43,9 +38,9 @@ A [Claude Code](https://claude.ai/code) skill for the full CRAN submission workf
 | [**readnoaa**](https://github.com/charlescoverdale/readnoaa) | NOAA Climate Data | [![CRAN](https://www.r-pkg.org/badges/version/readnoaa)](https://CRAN.R-project.org/package=readnoaa) | [![Downloads](https://cranlogs.r-pkg.org/badges/readnoaa)](https://CRAN.R-project.org/package=readnoaa) |
 | [**readecb**](https://github.com/charlescoverdale/readecb) | European Central Bank | [![CRAN](https://www.r-pkg.org/badges/version/readecb)](https://CRAN.R-project.org/package=readecb) | [![Downloads](https://cranlogs.r-pkg.org/badges/readecb)](https://CRAN.R-project.org/package=readecb) |
 | [**readaec**](https://github.com/charlescoverdale/readaec) | Australian Electoral Commission | [![CRAN](https://www.r-pkg.org/badges/version/readaec)](https://CRAN.R-project.org/package=readaec) | [![Downloads](https://cranlogs.r-pkg.org/badges/readaec)](https://CRAN.R-project.org/package=readaec) |
-| [**ato**](https://github.com/charlescoverdale/ato) | Australian Taxation Office | | |
-| [**aemo**](https://github.com/charlescoverdale/aemo) | Australian Energy Market Operator | | |
-| [**cer**](https://github.com/charlescoverdale/cer) | Australian Clean Energy Regulator | | |
+| [**ato**](https://github.com/charlescoverdale/ato) | Australian Taxation Office | [![CRAN](https://www.r-pkg.org/badges/version/ato)](https://CRAN.R-project.org/package=ato) | [![Downloads](https://cranlogs.r-pkg.org/badges/ato)](https://CRAN.R-project.org/package=ato) |
+| [**aemo**](https://github.com/charlescoverdale/aemo) | Australian Energy Market Operator | [![CRAN](https://www.r-pkg.org/badges/version/aemo)](https://CRAN.R-project.org/package=aemo) | [![Downloads](https://cranlogs.r-pkg.org/badges/aemo)](https://CRAN.R-project.org/package=aemo) |
+| [**cer**](https://github.com/charlescoverdale/cer) | Australian Clean Energy Regulator | [![CRAN](https://www.r-pkg.org/badges/version/cer)](https://CRAN.R-project.org/package=cer) | [![Downloads](https://cranlogs.r-pkg.org/badges/cer)](https://CRAN.R-project.org/package=cer) |
 | [**readoecd**](https://github.com/charlescoverdale/readoecd) | OECD | [![CRAN](https://www.r-pkg.org/badges/version/readoecd)](https://CRAN.R-project.org/package=readoecd) | [![Downloads](https://cranlogs.r-pkg.org/badges/readoecd)](https://CRAN.R-project.org/package=readoecd) |
 | [**comtrade**](https://github.com/charlescoverdale/comtrade) | UN Comtrade | [![CRAN](https://www.r-pkg.org/badges/version/comtrade)](https://CRAN.R-project.org/package=comtrade) | [![Downloads](https://cranlogs.r-pkg.org/badges/comtrade)](https://CRAN.R-project.org/package=comtrade) |
 | [**carbondata**](https://github.com/charlescoverdale/carbondata) | Carbon markets: EU ETS, UK ETS, RGGI, California, ICAP, VROD | [![CRAN](https://www.r-pkg.org/badges/version/carbondata)](https://CRAN.R-project.org/package=carbondata) | [![Downloads](https://cranlogs.r-pkg.org/badges/carbondata)](https://CRAN.R-project.org/package=carbondata) |
