@@ -8,7 +8,7 @@ See below for my projects for accessing economic data and applied research.
 
 #### [econstack](https://github.com/charlescoverdale/econstack): AI-powered economic analysis
 
-Professional economic analysis, powered by AI. econstack is a set of [Claude Code](https://claude.ai/code) skills that handle the mechanical parts of economic analysis: live macro and fiscal briefings, market research, policy briefing notes, pre-appraisal longlisting, and methodology audit. 6 skills designed to work on the inputs and checks around a policy decision, so you can focus on the judgement calls. Supports HM Treasury Green Book, EU Better Regulation, World Bank, Asian Development Bank, and Australian Treasury (Victoria) frameworks with framework-native output. Backed by 57 audited parameter files and 20+ R packages on CRAN.
+Professional economic analysis, powered by AI. econstack is a set of [Claude Code](https://claude.ai/code) skills that handle the mechanical parts of economic analysis: live macro and fiscal briefings, market research, policy briefing notes, pre-appraisal longlisting, and methodology audit. 6 skills designed to work on the inputs and checks around a policy decision, so you can focus on the judgement calls. Supports HM Treasury Green Book, EU Better Regulation, World Bank, Asian Development Bank, and Australian Treasury (Victoria) frameworks with framework-native output. Backed by 57 audited parameter files and 25+ R packages on CRAN.
 
 - **`/macro-briefing`** : Pull live macro data for the UK, US, Euro area, or Australia into one briefing
 - **`/fiscal-briefing`** : Pull live public finances data and produce a deficit, debt, and fiscal rules briefing
@@ -21,7 +21,7 @@ Professional economic analysis, powered by AI. econstack is a set of [Claude Cod
 
 #### [buildRpackage](https://github.com/charlescoverdale/buildRpackage): ship R packages to CRAN
 
-A [Claude Code](https://claude.ai/code) skill for the full CRAN submission workflow: ideate, name, plan, build, check, audit, submit, resubmit. Captures CRAN policies and the fix pattern for common rejections (Ripley cache rule, globalenv manipulation, URL 404s, version discipline). Two audit modes: academic (literature, formulas, test adequacy) and code (edge cases, numerical stability, cross-platform). Built from shipping 20+ R packages to CRAN.
+A [Claude Code](https://claude.ai/code) skill for the full CRAN submission workflow: ideate, name, plan, build, check, audit, submit, resubmit. Captures CRAN policies and the fix pattern for common rejections (Ripley cache rule, globalenv manipulation, URL 404s, version discipline). Two audit modes: academic (literature, formulas, test adequacy) and code (edge cases, numerical stability, cross-platform). Built from shipping 25+ R packages to CRAN.
 
 ---
 
@@ -55,7 +55,7 @@ A [Claude Code](https://claude.ai/code) skill for the full CRAN submission workf
 | [**mpshock**](https://github.com/charlescoverdale/mpshock) | Monetary policy shock and stance series for empirical macro | [![CRAN](https://www.r-pkg.org/badges/version/mpshock)](https://CRAN.R-project.org/package=mpshock) | [![Downloads](https://cranlogs.r-pkg.org/badges/mpshock)](https://CRAN.R-project.org/package=mpshock) |
 | [**yieldcurves**](https://github.com/charlescoverdale/yieldcurves) | Yield curve fitting | [![CRAN](https://www.r-pkg.org/badges/version/yieldcurves)](https://CRAN.R-project.org/package=yieldcurves) | [![Downloads](https://cranlogs.r-pkg.org/badges/yieldcurves)](https://CRAN.R-project.org/package=yieldcurves) |
 | [**debtkit**](https://github.com/charlescoverdale/debtkit) | Debt sustainability analysis | [![CRAN](https://www.r-pkg.org/badges/version/debtkit)](https://CRAN.R-project.org/package=debtkit) | [![Downloads](https://cranlogs.r-pkg.org/badges/debtkit)](https://CRAN.R-project.org/package=debtkit) |
-| [**greenbook**](https://github.com/charlescoverdale/greenbook) | HM Treasury Green Book cost-benefit analysis primitives | | [![Downloads](https://cranlogs.r-pkg.org/badges/greenbook)](https://CRAN.R-project.org/package=greenbook) |
+| [**greenbook**](https://github.com/charlescoverdale/greenbook) | HM Treasury Green Book cost-benefit analysis primitives | [![CRAN](https://www.r-pkg.org/badges/version/greenbook)](https://CRAN.R-project.org/package=greenbook) | [![Downloads](https://cranlogs.r-pkg.org/badges/greenbook)](https://CRAN.R-project.org/package=greenbook) |
 | [**magentabook**](https://github.com/charlescoverdale/magentabook) | HM Treasury Magenta Book policy evaluation primitives | | [![Downloads](https://cranlogs.r-pkg.org/badges/magentabook)](https://CRAN.R-project.org/package=magentabook) |
 | [**climatekit**](https://github.com/charlescoverdale/climatekit) | Climate indices | [![CRAN](https://www.r-pkg.org/badges/version/climatekit)](https://CRAN.R-project.org/package=climatekit) | [![Downloads](https://cranlogs.r-pkg.org/badges/climatekit)](https://CRAN.R-project.org/package=climatekit) |
 | [**inequality**](https://github.com/charlescoverdale/inequality) | Inequality and poverty measurement | [![CRAN](https://www.r-pkg.org/badges/version/inequality)](https://CRAN.R-project.org/package=inequality) | [![Downloads](https://cranlogs.r-pkg.org/badges/inequality)](https://CRAN.R-project.org/package=inequality) |
