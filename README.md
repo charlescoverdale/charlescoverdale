@@ -43,7 +43,7 @@ A [Claude Code](https://claude.ai/code) skill for the full CRAN submission workf
 | [**cer**](https://github.com/charlescoverdale/cer) | Australian Clean Energy Regulator | [![CRAN](https://www.r-pkg.org/badges/version/cer)](https://CRAN.R-project.org/package=cer) | [![Downloads](https://cranlogs.r-pkg.org/badges/cer)](https://CRAN.R-project.org/package=cer) |
 | [**readoecd**](https://github.com/charlescoverdale/readoecd) | OECD | [![CRAN](https://www.r-pkg.org/badges/version/readoecd)](https://CRAN.R-project.org/package=readoecd) | [![Downloads](https://cranlogs.r-pkg.org/badges/readoecd)](https://CRAN.R-project.org/package=readoecd) |
 | [**comtrade**](https://github.com/charlescoverdale/comtrade) | UN Comtrade | [![CRAN](https://www.r-pkg.org/badges/version/comtrade)](https://CRAN.R-project.org/package=comtrade) | [![Downloads](https://cranlogs.r-pkg.org/badges/comtrade)](https://CRAN.R-project.org/package=comtrade) |
-| [**carbondata**](https://github.com/charlescoverdale/carbondata) | Carbon markets: EU ETS, UK ETS, RGGI, California, ICAP, VROD | [![CRAN](https://www.r-pkg.org/badges/version/carbondata)](https://CRAN.R-project.org/package=carbondata) | [![Downloads](https://cranlogs.r-pkg.org/badges/carbondata)](https://CRAN.R-project.org/package=carbondata) |
+| [**carbondata**](https://github.com/charlescoverdale/carbondata) | Carbon market data | [![CRAN](https://www.r-pkg.org/badges/version/carbondata)](https://CRAN.R-project.org/package=carbondata) | [![Downloads](https://cranlogs.r-pkg.org/badges/carbondata)](https://CRAN.R-project.org/package=carbondata) |
 
 #### Analytical toolkits
 
