@@ -27,7 +27,7 @@ A [Claude Code](https://claude.ai/code) skill for the full CRAN submission workf
 
 #### Data access packages
 
-| Package | Source | CRAN | Downloads |
+| Package | Source<img src="https://raw.githubusercontent.com/charlescoverdale/charlescoverdale/main/spacer.png" width="400" height="1" /> | CRAN | Downloads |
 |---|---|---|---|
 | [**ons**](https://github.com/charlescoverdale/ons) | UK Office for National Statistics | [![CRAN](https://www.r-pkg.org/badges/version/ons)](https://CRAN.R-project.org/package=ons) | [![Downloads](https://cranlogs.r-pkg.org/badges/ons)](https://CRAN.R-project.org/package=ons) |
 | [**boe**](https://github.com/charlescoverdale/boe) | Bank of England | [![CRAN](https://www.r-pkg.org/badges/version/boe)](https://CRAN.R-project.org/package=boe) | [![Downloads](https://cranlogs.r-pkg.org/badges/boe)](https://CRAN.R-project.org/package=boe) |
@@ -47,7 +47,7 @@ A [Claude Code](https://claude.ai/code) skill for the full CRAN submission workf
 
 #### Analytical toolkits
 
-| Package | Purpose | CRAN | Downloads |
+| Package | Purpose<img src="https://raw.githubusercontent.com/charlescoverdale/charlescoverdale/main/spacer.png" width="400" height="1" /> | CRAN | Downloads |
 |---|---|---|---|
 | [**nowcast**](https://github.com/charlescoverdale/nowcast) | Economic nowcasting | [![CRAN](https://www.r-pkg.org/badges/version/nowcast)](https://CRAN.R-project.org/package=nowcast) | [![Downloads](https://cranlogs.r-pkg.org/badges/nowcast)](https://CRAN.R-project.org/package=nowcast) |
 | [**inflationkit**](https://github.com/charlescoverdale/inflationkit) | Inflation analysis | [![CRAN](https://www.r-pkg.org/badges/version/inflationkit)](https://CRAN.R-project.org/package=inflationkit) | [![Downloads](https://cranlogs.r-pkg.org/badges/inflationkit)](https://CRAN.R-project.org/package=inflationkit) |
