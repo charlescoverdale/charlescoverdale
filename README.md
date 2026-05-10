@@ -22,7 +22,11 @@ econstack is a set of [Claude Code](https://claude.ai/code) skills that handle t
 
 #### [buildRpackage](https://github.com/charlescoverdale/buildRpackage): ship R packages to CRAN
 
-A [Claude Code](https://claude.ai/code) skill for the full CRAN submission workflow: ideate, name, plan, build, check, audit, submit, resubmit. The skill captures CRAN policies and the fix pattern for common rejections (cache rules, globalenv manipulation, URL 404s, version discipline). There are two audit modes: academic (literature, formulas, test adequacy) and code (edge cases, numerical stability, cross-platform). It's been built from shipping 25+ R packages to CRAN.
+A [Claude Code](https://claude.ai/code) skill for the full CRAN submission workflow, built from shipping 25+ R packages to CRAN.
+
+- **Pipeline**: ideate, name, plan, build, check, audit, submit, resubmit
+- **Common rejections handled**: cache rules, globalenv manipulation, URL 404s, version discipline
+- **Audit modes**: academic (literature, formulas, test adequacy) and code (edge cases, numerical stability, cross-platform)
 
 ---
 
