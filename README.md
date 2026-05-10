@@ -15,7 +15,7 @@ econstack is a set of [Claude Code](https://claude.ai/code) skills that handle t
 - **`/market-research`** : Produce a source-cited industry report with sizing, competition, Porter's Five Forces, and outlook
 - **`/briefing-note`** : Draft a one or two-page policy briefing note for a minister, board, or committee
 - **`/longlist`** : Brainstorm all the benefits and costs for a project before you start modelling anything
-- **`/cost-benefit`** : Compute economic and financial NPV side by side, with optimism bias, METB, sensitivity, and a value-for-money verdict (backed by the `greenbook` R package)
+- **`/cost-benefit`** : Compute economic and financial NPV side by side (backed by the `greenbook` R package)
 - **`/econ-audit`** : Review any economic analysis for methodology errors and return a RAG scorecard with fixes
 
 ---
