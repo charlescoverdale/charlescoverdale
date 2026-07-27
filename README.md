@@ -6,20 +6,6 @@ See below for my projects for accessing economic data and applied research.
 
 ---
 
-#### [econstack](https://github.com/charlescoverdale/econstack): AI-powered economic analysis
-
-econstack is a set of [Claude Code](https://claude.ai/code) skills that handle the mechanical parts of economic analysis: live macro and fiscal briefings, market research, policy briefing notes, pre-appraisal longlisting, full cost-benefit analysis, and methodology audit. 7 skills designed to work on the inputs and checks around a policy decision, so you can focus on the judgement calls. Supports HM Treasury Green Book, EU Better Regulation, World Bank, Asian Development Bank, and Australian Treasury (Victoria) frameworks with framework-native output.
-
-- **`/macro-briefing`** : Pull live macro data for the UK, US, Euro area, or Australia into one briefing
-- **`/fiscal-briefing`** : Pull live public finances data and produce a deficit, debt, and fiscal rules briefing
-- **`/market-research`** : Produce a source-cited industry report with sizing, competition, Porter's Five Forces, and outlook
-- **`/briefing-note`** : Draft a one or two-page policy briefing note for a minister, board, or committee
-- **`/longlist`** : Brainstorm all the benefits and costs for a project before you start modelling anything
-- **`/cost-benefit`** : Compute economic and financial NPV side by side (backed by the `greenbook` R package)
-- **`/econ-audit`** : Review any economic analysis for methodology errors and return a RAG scorecard with fixes
-
----
-
 #### [buildRpackage](https://github.com/charlescoverdale/buildRpackage): ship R packages to CRAN
 
 A [Claude Code](https://claude.ai/code) skill for the full CRAN submission workflow, built from shipping 25+ R packages to CRAN.
