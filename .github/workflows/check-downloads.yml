@@ -1,0 +1,12 @@
+name: Check CRAN Downloads
+on:
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch CRAN download stats
+        run: |
+          echo "=== CRAN Monthly Downloads ==="
+          curl -s "https://cranlogs.r-pkg.org/downloads/total/last-month/ons,boe,hmrc,obr,fred,readecb,readoecd,readnoaa,readaec,predictset,nowcast,inflationkit,yieldcurves,debtkit,climatekit,inflateR" | python3 -m json.tool
+          echo "=== Done ==="
