@@ -54,6 +54,7 @@ A [Claude Code](https://claude.ai/code) skill for the full CRAN submission workf
 | [**inequality**](https://github.com/charlescoverdale/inequality) | Inequality and poverty measurement | [![CRAN](https://www.r-pkg.org/badges/version/inequality)](https://CRAN.R-project.org/package=inequality) | [![Downloads](https://cranlogs.r-pkg.org/badges/inequality)](https://CRAN.R-project.org/package=inequality) |
 | [**predictset**](https://github.com/charlescoverdale/predictset) | Conformal prediction | [![CRAN](https://www.r-pkg.org/badges/version/predictset)](https://CRAN.R-project.org/package=predictset) | [![Downloads](https://cranlogs.r-pkg.org/badges/predictset)](https://CRAN.R-project.org/package=predictset) |
 | [**ivcheck**](https://github.com/charlescoverdale/ivcheck) | Instrumental variable tests | [![CRAN](https://www.r-pkg.org/badges/version/ivcheck)](https://CRAN.R-project.org/package=ivcheck) | [![Downloads](https://cranlogs.r-pkg.org/badges/ivcheck)](https://CRAN.R-project.org/package=ivcheck) |
+| [**evalkit**](https://github.com/charlescoverdale/evalkit) | Language model evaluation statistics | [![CRAN](https://img.shields.io/badge/CRAN-submission%20pending-orange)](https://github.com/charlescoverdale/evalkit) | [![Docs](https://img.shields.io/badge/docs-pkgdown-blue)](https://charlescoverdale.github.io/evalkit/) |
 
 #### Products
 
