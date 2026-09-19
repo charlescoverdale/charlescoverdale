@@ -54,7 +54,7 @@ A [Claude Code](https://claude.ai/code) skill for the full CRAN submission workf
 | [**inequality**](https://github.com/charlescoverdale/inequality) | Inequality and poverty measurement | [![CRAN](https://www.r-pkg.org/badges/version/inequality)](https://CRAN.R-project.org/package=inequality) | [![Downloads](https://cranlogs.r-pkg.org/badges/inequality)](https://CRAN.R-project.org/package=inequality) |
 | [**predictset**](https://github.com/charlescoverdale/predictset) | Conformal prediction | [![CRAN](https://www.r-pkg.org/badges/version/predictset)](https://CRAN.R-project.org/package=predictset) | [![Downloads](https://cranlogs.r-pkg.org/badges/predictset)](https://CRAN.R-project.org/package=predictset) |
 | [**ivcheck**](https://github.com/charlescoverdale/ivcheck) | Instrumental variable tests | [![CRAN](https://www.r-pkg.org/badges/version/ivcheck)](https://CRAN.R-project.org/package=ivcheck) | [![Downloads](https://cranlogs.r-pkg.org/badges/ivcheck)](https://CRAN.R-project.org/package=ivcheck) |
-| [**evaluatellm**](https://github.com/charlescoverdale/evaluatellm) | Language model evaluation statistics |  |  |
+| [**evaluatellm**](https://github.com/charlescoverdale/evaluatellm) | Language model evaluation statistics | [![CRAN](https://www.r-pkg.org/badges/version/evaluatellm)](https://CRAN.R-project.org/package=evaluatellm) | [![Downloads](https://cranlogs.r-pkg.org/badges/evaluatellm)](https://CRAN.R-project.org/package=evaluatellm) |
 
 #### Products
 
