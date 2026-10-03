@@ -6,16 +6,6 @@ See below for my projects for accessing economic data and applied research.
 
 ---
 
-#### [buildRpackage](https://github.com/charlescoverdale/buildRpackage): ship R packages to CRAN
-
-A [Claude Code](https://claude.ai/code) skill for the full CRAN submission workflow, built from shipping 25+ R packages to CRAN.
-
-- **Pipeline**: ideate, name, plan, build, check, audit, submit, resubmit
-- **Common rejections handled**: cache rules, globalenv manipulation, URL 404s, version discipline
-- **Audit modes**: academic (literature, formulas, test adequacy) and code (edge cases, numerical stability, cross-platform)
-
----
-
 #### Data access packages
 
 | Package | Source<img src="https://raw.githubusercontent.com/charlescoverdale/charlescoverdale/main/spacer.png" width="400" height="1" /> | CRAN | Downloads |
