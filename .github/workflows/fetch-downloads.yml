@@ -1,0 +1,29 @@
+name: Fetch CRAN Downloads
+on:
+  push:
+    branches:
+      - claude/check-r-package-downloads-SsYbL
+    paths:
+      - '.github/workflows/fetch-downloads.yml'
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: claude/check-r-package-downloads-SsYbL
+      - name: Fetch download counts
+        run: |
+          pkgs="ons,boe,hmrc,obr,ukhousing,fred,readnoaa,readecb,readaec,ato,aemo,cer,readoecd,readimf,comtrade,carbondata,aieconindex,nowcast,inflationkit,inflateR,mpshock,yieldcurves,debtkit,greenbook,magentabook,climatekit,inequality,predictset,ivcheck,evaluatellm"
+          curl -s "https://cranlogs.r-pkg.org/downloads/total/last-month/${pkgs}" > downloads.json
+          cat downloads.json
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add downloads.json
+          git commit -m "Update download counts" || echo "No changes"
+          git push
